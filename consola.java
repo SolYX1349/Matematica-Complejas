@@ -8,7 +8,7 @@ public class consola {
         FormulasIMP formula = new FormulasIMP();
         Scanner inputconsole = new Scanner(System.in);
 
-        int opc1 = 0 , opc2 = 0 ;
+        int opc1 = 0 , opc2 = 0 , cara = 3;
         boolean regreso = false ;
         double numero1 = 0 , numero2 = 0 , resultado = 0;
 
