@@ -1,4 +1,4 @@
-package mx.com.miprojecto.domain.calculator;
+package mx.com.miprojecto.domain.matematicalcalculator;
 
 import static org.junit.Assert.*;
 
